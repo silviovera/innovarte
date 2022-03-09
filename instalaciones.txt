@@ -1,0 +1,9 @@
+npm install -y
+npm install nodemon -D
+npm install pg
+npm install dotenv
+npx create-react-app client
+npm install react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install sweetalert
